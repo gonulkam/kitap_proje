@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitap_proje", "kitap_proje\kitap_proje.csproj", "{9B2388FE-7355-43CC-8B8F-05EC3D5CD5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B2388FE-7355-43CC-8B8F-05EC3D5CD5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2388FE-7355-43CC-8B8F-05EC3D5CD5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2388FE-7355-43CC-8B8F-05EC3D5CD5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2388FE-7355-43CC-8B8F-05EC3D5CD5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2033F1DE-280E-4579-B915-4A07381E0800}
+	EndGlobalSection
+EndGlobal
